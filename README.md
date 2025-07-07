@@ -1,6 +1,6 @@
 # Image Scraper
 
-This is a simple Program Which scrapes all instances of a <img> tag off of a html page. This works with dynamically loaded JavaScript pages as well as statically loaded html pages.
+This is a simple Program Which scrapes all instances of the img tag off of a html page. This works with dynamically loaded JavaScript pages as well as statically loaded html pages.
 
 # Usage
 
